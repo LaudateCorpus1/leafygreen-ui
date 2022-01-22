@@ -2857,6 +2857,27 @@
     polished "^2.3.0"
     prop-types "^15.0.0"
 
+"@leafygreen-ui/mongo-nav@^7.2.1":
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/@leafygreen-ui/mongo-nav/-/mongo-nav-7.2.2.tgz#2fbea6b3424b2dc38d3f59c7582cff2c52bab58a"
+  integrity sha512-0gTPwCm4Q7SWjNRSD0G9PCGLINRTBkUlNhlxTz1S0SwsbZvyQP9t9VJDhIhU5NxXMXdWf1J/CXBeZ3EKZVQw+g==
+  dependencies:
+    "@leafygreen-ui/a11y" "^1.2.2"
+    "@leafygreen-ui/badge" "^4.0.5"
+    "@leafygreen-ui/button" "^12.0.4"
+    "@leafygreen-ui/hooks" "^7.0.0"
+    "@leafygreen-ui/icon" "^11.3.0"
+    "@leafygreen-ui/icon-button" "^9.1.6"
+    "@leafygreen-ui/interaction-ring" "^1.1.0"
+    "@leafygreen-ui/lib" "^9.0.0"
+    "@leafygreen-ui/logo" "^5.0.0"
+    "@leafygreen-ui/menu" "^11.0.1"
+    "@leafygreen-ui/palette" "^3.2.2"
+    "@leafygreen-ui/tabs" "^5.1.4"
+    "@leafygreen-ui/tooltip" "^6.3.1"
+    "@leafygreen-ui/typography" "^8.0.4"
+    lodash "^4.17.21"
+
 "@lerna/add@3.20.0":
   version "3.20.0"
   resolved "https://registry.yarnpkg.com/@lerna/add/-/add-3.20.0.tgz#bea7edf36fc93fb72ec34cb9ba854c48d4abf309"
@@ -14126,9 +14147,9 @@ nan@^2.12.1, nan@^2.13.2:
   integrity sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==
 
 nanoid@^3.1.16:
-  version "3.1.20"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.20.tgz#badc263c6b1dcf14b71efaa85f6ab4c1d6cfc788"
-  integrity sha512-a1cQNyczgKbLX9jwbS/+d7W8fX/RfgYR7lVWwWOGIPNgK2m0MWvrGF6/m4kk6U3QcFMnZf3RIhL0v2Jgh/0Uxw==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
